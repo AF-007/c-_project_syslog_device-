@@ -1,5 +1,3 @@
-# c-_project_syslog_device-
-
 Problem 1/ C++ Project
 Create a Linux based C++ application which supports the following,
     1. A Logger Class which could be used to log messages to console or syslog
